@@ -19,7 +19,7 @@ import com.google.gson.Gson;
 @SuppressWarnings("deprecation")
 public class PoeNinjaFetcher {
 		
-	final String POE_SEARCHLINK = "https://www.pathofexile.com/api/trade/exchange/Betrayal";
+	final String POE_SEARCHLINK = "https://www.pathofexile.com/api/trade/exchange/Betrayal Hardcore";
 	final String POE_SEARCHLINK_FOR_RESULT = "https://www.pathofexile.com/api/trade/fetch/";
 	private final String USER_AGENT = "Mozilla/5.0";
 	private String idFromPostRequest = "";
